@@ -1,0 +1,19 @@
+{
+    "name": "lnnitharsan/chat",
+    "description": "This is a live chat between a customer and an administrator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tharsan",
+            "email": "tharsanphp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},    
+    "autoload": {
+        "psr-4": {
+            "lnnitharsan\\Chat\\": "src/"
+        }
+    }
+}
